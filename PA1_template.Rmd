@@ -1,6 +1,6 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
-output: 
+author:"Deev Sethiya"
   html_document:
     keep_md: true
 ---
